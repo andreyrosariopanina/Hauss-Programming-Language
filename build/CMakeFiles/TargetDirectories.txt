@@ -1,0 +1,3 @@
+/home/andrey/Compiler/build/CMakeFiles/hauss.dir
+/home/andrey/Compiler/build/CMakeFiles/edit_cache.dir
+/home/andrey/Compiler/build/CMakeFiles/rebuild_cache.dir
