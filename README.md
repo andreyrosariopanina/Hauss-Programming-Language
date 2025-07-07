@@ -32,7 +32,7 @@ This project implements a compiler for a simple expression-based language. It in
 cmake --build build/
 ./build/hauss file.gs
 ./out
-``
+```
 
 ## Example
 
